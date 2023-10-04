@@ -1,0 +1,61 @@
+.contenaire{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.left{
+    display: flex;
+    width: 70%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.right{
+    /* background-color: greenyellow; */
+    width: 40%;
+    margin: 10px 0;
+}
+.payment{
+    width: 300px;
+    height: 170px;
+    background-color: red;
+    margin: 10px 0;
+}
+.payment2{
+    width: 300px;
+    height: 170px;
+    background-color: black;
+    margin: 10px 0;
+}
+.referenceCode{
+    background-color: rgb(60, 60, 60);
+    margin: 0px auto;
+    width: 90%;
+    height: 170px;
+}
+.promoCodeTxt{
+    background-image: linear-gradient(to right, rgba(0, 128, 0, 0.6), rgba(0, 128, 0, 0.1));
+    width: 90%;
+    margin: auto;
+    height: 100px;
+}
+#referanceContenaire{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+}
+#referance{
+    width: 80%;
+}
+.valer{
+    background-color: rgb(60, 60, 60);
+    margin: 20px auto;
+    width: 90%;
+    height: 170px;
+}
+.confirmation{
+    background-color: rgb(60, 60, 60);
+    margin: 0px auto;
+    width: 90%;
+    height: 170px;
+}

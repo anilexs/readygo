@@ -28,6 +28,9 @@ nav button{
     align-items: center;
     height: 35px;
 }
+nav .pseudo{
+    width: 70px;
+}
 nav button img{
     border-radius: 50%;
     width: 25px;
@@ -38,4 +41,10 @@ nav .logo img{
 }
 nav input{
     font-size: 29px;
+}
+nav .userSold{
+    border: 3px solid black;
+}
+nav .soldPage{
+    color: green;
 }
